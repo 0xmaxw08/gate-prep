@@ -28,8 +28,6 @@ The repository will gradually include resources for:
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ```text
 gate-prep/
 │
